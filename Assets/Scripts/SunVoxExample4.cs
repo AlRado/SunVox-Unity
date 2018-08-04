@@ -14,7 +14,7 @@ public class SunVoxExample4 : MonoBehaviour {
      but the following text should be included in your products (e.g. in About window):
 
      SunVox modular synthesizer
-     Copyright (c) 2008 - 2017, Alexander Zolotov <nightradio@gmail.com>, WarmPlace.ru
+     Copyright (c) 2008 - 2018, Alexander Zolotov <nightradio@gmail.com>, WarmPlace.ru
 
      Ogg Vorbis 'Tremor' integer playback codec
      Copyright (c) 2002, Xiph.org Foundation

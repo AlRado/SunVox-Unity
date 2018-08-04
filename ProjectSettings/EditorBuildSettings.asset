@@ -6,5 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Tests/Scenes/SunVoxTest.unity
-    guid: 929d47edf5e0dc349b2c72b94a2e4dfb
+    path: Assets/Scenes/SunVoxExample5.unity
+    guid: 06d5932269dd21a498c83fdef1e7026f
